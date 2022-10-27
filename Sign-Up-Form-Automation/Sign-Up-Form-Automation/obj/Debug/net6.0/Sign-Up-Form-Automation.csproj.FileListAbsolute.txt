@@ -1,0 +1,15 @@
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\bin\Debug\net6.0\Sign-Up-Form-Automation.exe
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\bin\Debug\net6.0\Sign-Up-Form-Automation.deps.json
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\bin\Debug\net6.0\Sign-Up-Form-Automation.runtimeconfig.json
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\bin\Debug\net6.0\Sign-Up-Form-Automation.dll
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\bin\Debug\net6.0\Sign-Up-Form-Automation.pdb
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.csproj.AssemblyReference.cache
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.AssemblyInfoInputs.cache
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.AssemblyInfo.cs
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.csproj.CoreCompileInputs.cache
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.dll
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\refint\Sign-Up-Form-Automation.dll
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.pdb
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\Sign-Up-Form-Automation.genruntimeconfig.cache
+C:\Users\nik.kostov\source\repos\Sign-Up-Form-Automation\Sign-Up-Form-Automation\Sign-Up-Form-Automation\obj\Debug\net6.0\ref\Sign-Up-Form-Automation.dll

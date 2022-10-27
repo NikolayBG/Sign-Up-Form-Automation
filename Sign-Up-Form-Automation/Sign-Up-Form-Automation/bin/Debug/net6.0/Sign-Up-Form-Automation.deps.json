@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sign-Up-Form-Automation/1.0.0": {
+        "runtime": {
+          "Sign-Up-Form-Automation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sign-Up-Form-Automation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
